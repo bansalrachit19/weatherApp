@@ -17,7 +17,7 @@ Check out the live demo [here](https://bansalrachit19.github.io/weatherApp/).
 ## Screenshots
 
 ![Home Screen](./assets/home-screenshot.png)
-![City Not Found](./assets/not-found-screenshot.png)
+![City Not Found](./assets/not-found.png)
 
 ## Installation
 
@@ -54,3 +54,11 @@ This project uses the OpenWeatherMap API. To run the project locally or deploy i
 
 const API_KEY = "1b0a0a9829ed50cc1130afe7dfab597d";
 
+##  Contributing
+
+Contributions are welcome! Please fork this repository, create a new branch, and submit a pull request.
+
+##  Acknowledgements
+
+-  OpenWeatherMap API for providing the weather data.
+-  Google Fonts for the Merriweather Sans font used in the project.
