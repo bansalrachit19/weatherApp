@@ -230,6 +230,18 @@ h1 {
   margin-bottom: 1px;
 }
 
+.not-found-container {
+  display: flex;
+  justify-content: center;
+  margin-top: 20px;
+}
+
+.not-found-img {
+  height: 150px;
+  width: 150px;
+  object-fit: contain;
+}
+
 /* yahan se media queries for responsiveness */
 
 @media (max-width: 1024px) {
